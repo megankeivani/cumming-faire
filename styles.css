@@ -18,8 +18,8 @@
   --white: #ffffff;
   --radius: 4px;
   --shadow: 0 10px 30px -12px rgba(43, 38, 34, 0.18);
-  --serif: "Cormorant Garamond", "Playfair Display", Georgia, serif;
-  --sans: "Jost", "Helvetica Neue", Arial, sans-serif;
+  --serif: "Fraunces", "Playfair Display", Georgia, serif;
+  --sans: "Poppins", "Helvetica Neue", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
